@@ -1,2 +1,0 @@
-# FinalKeeperApp
-Created with CodeSandbox
